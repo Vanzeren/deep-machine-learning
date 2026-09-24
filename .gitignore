@@ -3,6 +3,8 @@
 *.csv
 *.jpg
 *.h5
+*.zip
+*.ckpt
 *.tfevents*
 PASSWD_HASH.txt
 #*.txt
